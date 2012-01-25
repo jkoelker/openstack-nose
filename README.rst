@@ -1,8 +1,9 @@
 openstack.nose_plugin - Nose plugin for openstack style test output
 ===================================================================
 
-openstack.nose_plugin provides a nose plugin that allow's nosetests output to
-mimic the output of openstack's run_tests.py.
+openstack.nose_plugin provides a nose plugin that allow's nosetests output
+to mimic the output of openstack's run_tests.py.
+
 
 Installation
 ------------
